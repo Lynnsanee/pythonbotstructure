@@ -1,1 +1,1 @@
-__all__ = ["start", "help", "stop", "a"]
+__all__ = ["start", "helpCommand", "stop", "a"]
