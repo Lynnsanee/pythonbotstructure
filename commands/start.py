@@ -1,2 +1,2 @@
-async def start(eventObject):
+async def command(eventObject):
     return print("Welcome to my lab, {} ".format(eventObject["sender"]))

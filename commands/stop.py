@@ -1,2 +1,2 @@
-async def help(eventObject):
+async def command(eventObject):
     return print("Shutting down, byee, {} ".format(eventObject["sender"]))
